@@ -1,0 +1,1 @@
+基于etcd核心raft协议, levedb作为持久化分布式缓存
